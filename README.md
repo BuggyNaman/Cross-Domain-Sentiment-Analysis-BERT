@@ -1,3 +1,9 @@
+## Live Demo
+
+
+https://github.com/user-attachments/assets/9f1bec6a-63a5-4493-b13f-79707577198f
+
+
 # Cross-Domain Sentiment Analysis via Disentangled Token-Level Attention & Confidence-Gated Prototypical Learning
 
 An enhanced PyTorch + BERT framework for **Unsupervised Cross-Domain Sentiment Analysis (CDSA)** across Amazon product domains (*Books, DVDs, Electronics, Kitchen*), paired with an interactive **Streamlit** explainability dashboard.
